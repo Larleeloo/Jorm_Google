@@ -1,0 +1,5 @@
+{
+  "name": "Android Java Template",
+  "description": "A basic Android application template coded in Java, providing standard boilerplate files.",
+  "requestFramePermissions": []
+}
